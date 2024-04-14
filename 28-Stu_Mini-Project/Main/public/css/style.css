@@ -1,0 +1,56 @@
+header, .project:not(:last-child) {
+  border-bottom: 1px solid #ccc;
+}
+
+.no-button {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  color: #660b05;
+  text-decoration: none;
+  font-size: 100%;
+}
+
+.no-button:hover {
+  color: #58160a;
+  text-decoration: underline;
+}
+
+.dollar-amount {
+  color: #66050d;
+  font-weight: bold;
+  margin-left: -5px;
+}
+
+label {
+  font-size: 30px !important;
+  font-style: oblique;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(162, 49, 11);
+  
+}
+
+a {
+  font-size: 50px !important;
+  font-style:normal;
+  font-weight: bold;
+  color: #060737;
+}
+
+
+b {
+  font-size: 30px !important;
+  font-style:normal;
+  font-weight: bold;
+  color: #060737;
+}
+
+.login-form {
+  width: 200px;
+}
+
+.signup-form {
+  width: 200px;
+}
+
